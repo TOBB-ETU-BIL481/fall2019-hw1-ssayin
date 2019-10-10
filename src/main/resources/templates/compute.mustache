@@ -1,0 +1,54 @@
+<title>Firm Symbol Matcher</title>
+<h1>Firm Symbol Matcher</h1>
+
+<h2>What is this about?</h2>
+This application takes firm names and ID's and symbols resembling one of the firm names.
+<br>
+The algorithm basically matches symbols with names and presents them in a table. If there are
+<br>
+more than one matching symbols, then the longest matching symbol will be matched.
+<br>
+<br>
+<br>
+<h3> ATTENTION!!! </h3>
+Number of FIRM SYMBOLS SHOULD NOT BE BIGGER THAN THE NUMBER OF SYMBOL ID'S, OTHERWISE<br>
+IT WILL THROW AN EXCEPTION, AND THAT IS INTENDED
+<br>
+
+You MUST use ENTER/LINE BREAK between EACH SINGLE INPUT
+<form action="" method="post">
+    <table>
+    <tr>
+        <th>ID</th>
+        <th>Firm</th>
+        </th>
+
+        {{#matches}}
+            <tr>
+                <td>{{id}}</td>
+                <td>{{name}}</td>
+            </tr>
+        {{/matches}}
+
+    </table>
+    <br>
+    <br>
+    <b>Firm Name</b>
+    <br>
+    <textarea name="input1" rows="5" cols="25"></textarea>
+    <br>
+    <b>Firm ID</b>
+    <br>
+    <textarea name="input2" rows="5" cols="25"></textarea>
+    <br>
+    <b>Firm Symbol</b>
+    <br>
+    <textarea name="input3" rows="5" cols="25"></textarea>
+    <br>
+    <br>
+    <input type="checkbox" name="input4" value="MATCH">Match Case</input>
+    <br>
+    <br>
+    <br>
+    <input type="submit">
+</form>
