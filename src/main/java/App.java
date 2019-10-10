@@ -1,6 +1,11 @@
 import java.util.ArrayList;
+import java.util.Map;
+import java.util.HashMap;
 
-import static spark.Spark.port;
+import spark.ModelAndView;
+import spark.template.mustache.MustacheTemplateEngine;
+
+import static spark.Spark.*;
 
 public class App {
     public boolean divisible(ArrayList<Integer> list, Integer div) {
@@ -15,6 +20,20 @@ public class App {
 
     public static void main(String[] args) {
         port(getHerokuAssignedPort());
+
+        post("/", (req, res) -> {
+            Map context = new HashMap<String, Object>();
+
+
+            return new ModelAndView(context, "app.mustache");
+        }, new MustacheTemplateEngine());
+
+        get("/",
+                (rq, rs) -> {
+                    Map map = new HashMap();
+                    return new ModelAndView(map, "app.mustache");
+                },
+                new MustacheTemplateEngine());
     }
 
     static int getHerokuAssignedPort() {
