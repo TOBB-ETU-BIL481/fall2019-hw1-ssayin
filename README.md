@@ -50,13 +50,13 @@ Make sure that your github repository shows a meaningful commit history distribu
 Make sure the heroku app is running until the grading is done (unless you manually delete the app from heroku, it will stay running). If the demo site does not work, we will assume you have not completed the heroku setup.
 
 **Github**
-![alt text](https://github.com/TOBB-ETU-BIL481/fall2019-hw1/blob/master/images/git.png)
+![alt text](https://github.com/ssayin/fall2019-hw1-ssayin/blob/master/images/git.png)
 
 **Travis-CI**
-![alt text](https://github.com/TOBB-ETU-BIL481/fall2019-hw1/blob/master/images/travis.png)
+![alt text](https://github.com/ssayin/fall2019-hw1-ssayin/blob/master/images/travis.png)
  
 **Heroku**
-![alt text](https://github.com/TOBB-ETU-BIL481/fall2019-hw1/blob/master/images/heroku.png)
+![alt text](https://github.com/ssayin/fall2019-hw1-ssayin/blob/master/images/heroku.png)
  
 **WebApp**
-![alt text](https://github.com/TOBB-ETU-BIL481/fall2019-hw1/blob/master/images/webapp.png)
+![alt text](https://github.com/ssayin/fall2019-hw1-ssayin/blob/master/images/webapp.png)
