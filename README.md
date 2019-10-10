@@ -1,10 +1,10 @@
 # fall2019-hw1 [![Build Status](https://travis-ci.org/ssayin/fall2019-hw1-ssayin.svg?branch=master)](https://travis-ci.org/ssayin/fall2019-hw1-ssayin)
 
-**BIL 481 - HW 1: **
+**BIL 481 - HW 1**
 
 Code repository, continuous integration, and continuous deployment
 
-** Goals:**
+**Goals**
 
   ●	 Becoming familiar with all the components of a realistic working environment for a software engineer.
 
@@ -12,13 +12,12 @@ Code repository, continuous integration, and continuous deployment
 
   ●	Gaining experience on making progress when exposed to many unfamiliar technologies
 
-**Summary:**
+**Summary**
 Set up a code repository with continuous integration and deployment.
 
-**Total Points:
-4 / 100**
+**Total Points: 4 / 100**
 
-**Specification:**
+**Specification**
 Set up a git repository in your github account. Follow the set up command instructions carefully:
 [Instructions for this hw](docs/Instructions.pdf)
 
@@ -44,13 +43,13 @@ b.	the file must contain a demo site address to the corresponding heroku applica
 **IMPORTANT NOTICE:**
 Make sure that your github repository shows a meaningful commit history distributed over time. In other words, we should NOT see that you committed all the files all at once because otherwise this clearly showed that you actually did not follow the instructions properly.
 
-**Notes:**
+**Notes**
 1.	Add a screenshot of your travis page showing the latest build (see an example below) to your GitHub page
 2.	Add a screenshot of the overview page of your heroku app (see an example below) GitHub page
 
 Make sure the heroku app is running until the grading is done (unless you manually delete the app from heroku, it will stay running). If the demo site does not work, we will assume you have not completed the heroku setup.
 
-**Example screenshots:**
+**Example screenshots**
 1.	Example look of github repository
 2.	Example Travis screenshot (It must have the repository address visible)
 3.	Example heroku screenshot (It must have the github repository address visible)
@@ -58,25 +57,24 @@ Make sure the heroku app is running until the grading is done (unless you manual
 
 
  
-**Example look of github repository**
+**Look of github repository**
 
  ![alt text](https://github.com/TOBB-ETU-BIL481/fall2019-hw1/blob/master/example_screenshots/git.jpg)
 
  
-**Example Travis screenshot (It must have the repository address visible, in this case: “cagdasgerede/myDemoApp”)**
+**Travis screenshot**
  
 
 ![alt text](https://github.com/TOBB-ETU-BIL481/fall2019-hw1/blob/master/example_screenshots/travis.jpg)
 
  
-**Example heroku screenshot (It must have the github repository address visible)**
+**Heroku screenshot**
  
 
 ![alt text](https://github.com/TOBB-ETU-BIL481/fall2019-hw1/blob/master/example_screenshots/heroku.jpg)
  
 
 
-**Example webapp screenshot 
-(In your case, you will have as many text areas as the number of parameters of your static method) **
+**Example webapp screenshot**
 
 ![alt text](https://github.com/TOBB-ETU-BIL481/fall2019-hw1/blob/master/example_screenshots/webapp.jpg)
