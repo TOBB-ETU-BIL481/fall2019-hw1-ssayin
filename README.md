@@ -51,12 +51,9 @@ Make sure the heroku app is running until the grading is done (unless you manual
 
 **Github**
 ![alt text](https://github.com/ssayin/fall2019-hw1-ssayin/blob/master/images/git.png)
-
 **Travis-CI**
 ![alt text](https://github.com/ssayin/fall2019-hw1-ssayin/blob/master/images/travis.png)
- 
 **Heroku**
 ![alt text](https://github.com/ssayin/fall2019-hw1-ssayin/blob/master/images/heroku.png)
- 
 **WebApp**
 ![alt text](https://github.com/ssayin/fall2019-hw1-ssayin/blob/master/images/webapp.png)
