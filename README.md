@@ -55,26 +55,14 @@ Make sure the heroku app is running until the grading is done (unless you manual
 3.	Example heroku screenshot (It must have the github repository address visible)
 4.	Example webapp screenshot
 
-
- 
 **Look of github repository**
+![alt text](https://github.com/TOBB-ETU-BIL481/fall2019-hw1/blob/master/example_screenshots/git.png)
 
- ![alt text](https://github.com/TOBB-ETU-BIL481/fall2019-hw1/blob/master/example_screenshots/git.jpg)
-
- 
 **Travis screenshot**
- 
-
-![alt text](https://github.com/TOBB-ETU-BIL481/fall2019-hw1/blob/master/example_screenshots/travis.jpg)
-
+![alt text](https://github.com/TOBB-ETU-BIL481/fall2019-hw1/blob/master/example_screenshots/travis.png)
  
 **Heroku screenshot**
- 
-
-![alt text](https://github.com/TOBB-ETU-BIL481/fall2019-hw1/blob/master/example_screenshots/heroku.jpg)
+![alt text](https://github.com/TOBB-ETU-BIL481/fall2019-hw1/blob/master/example_screenshots/heroku.png)
  
-
-
 **Example webapp screenshot**
-
-![alt text](https://github.com/TOBB-ETU-BIL481/fall2019-hw1/blob/master/example_screenshots/webapp.jpg)
+![alt text](https://github.com/TOBB-ETU-BIL481/fall2019-hw1/blob/master/example_screenshots/webapp.png)
