@@ -40,7 +40,7 @@ c.	The web page should have a description of the algorithm, the input format and
 a.	the file must contain a green marker from travis-ci showing the current build is passing;
 b.	the file must contain a demo site address to the corresponding heroku application.
 
-**IMPORTANT NOTICE:**
+**IMPORTANT NOTICE**
 Make sure that your github repository shows a meaningful commit history distributed over time. In other words, we should NOT see that you committed all the files all at once because otherwise this clearly showed that you actually did not follow the instructions properly.
 
 **Notes**
@@ -55,14 +55,14 @@ Make sure the heroku app is running until the grading is done (unless you manual
 3.	Example heroku screenshot (It must have the github repository address visible)
 4.	Example webapp screenshot
 
-**Look of github repository**
+**Github**
 ![alt text](https://github.com/TOBB-ETU-BIL481/fall2019-hw1/blob/master/example_screenshots/git.png)
 
-**Travis screenshot**
+**Travis-CI**
 ![alt text](https://github.com/TOBB-ETU-BIL481/fall2019-hw1/blob/master/example_screenshots/travis.png)
  
-**Heroku screenshot**
+**Heroku**
 ![alt text](https://github.com/TOBB-ETU-BIL481/fall2019-hw1/blob/master/example_screenshots/heroku.png)
  
-**Example webapp screenshot**
+**WebApp**
 ![alt text](https://github.com/TOBB-ETU-BIL481/fall2019-hw1/blob/master/example_screenshots/webapp.png)
