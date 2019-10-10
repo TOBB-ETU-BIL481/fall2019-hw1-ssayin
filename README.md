@@ -1,4 +1,4 @@
-# fall2019-hw1
+# fall2019-hw1 [![Build Status](https://travis-ci.org/ssayin/fall2019-hw1-ssayin.svg?branch=master)](https://travis-ci.org/ssayin/fall2019-hw1-ssayin)
 
 **BIL 481 - HW 1: **
 
