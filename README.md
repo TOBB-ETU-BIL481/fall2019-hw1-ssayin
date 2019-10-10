@@ -49,20 +49,14 @@ Make sure that your github repository shows a meaningful commit history distribu
 
 Make sure the heroku app is running until the grading is done (unless you manually delete the app from heroku, it will stay running). If the demo site does not work, we will assume you have not completed the heroku setup.
 
-**Example screenshots**
-1.	Example look of github repository
-2.	Example Travis screenshot (It must have the repository address visible)
-3.	Example heroku screenshot (It must have the github repository address visible)
-4.	Example webapp screenshot
-
 **Github**
-![alt text](https://github.com/TOBB-ETU-BIL481/fall2019-hw1/blob/master/example_screenshots/git.png)
+![alt text](https://github.com/TOBB-ETU-BIL481/fall2019-hw1/blob/master/images/git.png)
 
 **Travis-CI**
-![alt text](https://github.com/TOBB-ETU-BIL481/fall2019-hw1/blob/master/example_screenshots/travis.png)
+![alt text](https://github.com/TOBB-ETU-BIL481/fall2019-hw1/blob/master/images/travis.png)
  
 **Heroku**
-![alt text](https://github.com/TOBB-ETU-BIL481/fall2019-hw1/blob/master/example_screenshots/heroku.png)
+![alt text](https://github.com/TOBB-ETU-BIL481/fall2019-hw1/blob/master/images/heroku.png)
  
 **WebApp**
-![alt text](https://github.com/TOBB-ETU-BIL481/fall2019-hw1/blob/master/example_screenshots/webapp.png)
+![alt text](https://github.com/TOBB-ETU-BIL481/fall2019-hw1/blob/master/images/webapp.png)
